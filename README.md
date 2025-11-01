@@ -6,7 +6,7 @@
   
 Welcome to my GitHub profile — you found it! 👋  
 I’m **Adam (bahalq)** — web developer from Morocco. Feel free to clone, fork, raise issues or submit PRs.  
-Ask me anything with  <a href="mailto:bahalqadam2@example.com"><b>email</b></a> me.
+Ask me anything with  <a href="mailto:bahalqadam2@gmail.com"><b>email</b></a> me.
 
 *Happy Coding!* 😊
 
