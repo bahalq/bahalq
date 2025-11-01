@@ -10,7 +10,7 @@ I’m **Adam Bahalq**, a 2nd-year **Full Stack Development** student passionate 
 💡 I enjoy solving complex problems through code and constantly learning new technologies.  
 🌍 Based in Casablanca, Morocco.  
 📚 Currently studying Full Stack Web Development.  
-📫 **Contact:** [adambahalq@gmail.com](mailto:adambahalq@gmail.com)
+📫 **Contact:** [bahalqadam2@gmail.com](mailto:bahalqadam2@gmail.com)
 
 ---
 
