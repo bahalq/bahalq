@@ -38,7 +38,6 @@ Ask me anything with  <a href="mailto:bahalqadam2@example.com"><b>email</b></a> 
 ---
 
 ## Follow / Contact
-*(If you want, replace the placeholders with your actual handles)*
 
 
 <a href="https://www.linkedin.com/in/adam-bahalq-90477a333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
