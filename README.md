@@ -1,7 +1,5 @@
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30" alt="hi"></h2>
-
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 </div>
 
 <div align="center">
@@ -29,18 +27,8 @@ Ask me anything <a href="https://github.com/bahalq/SELF/issues/new"><b>here</b><
 
 ---
 
-## About me
-- 🔭 I’m currently working on modern web apps (PHP, JS, MySQL).  
-- 🌱 I’m learning new tech & improving algorithms.  
-- 💬 Ask me about web development, Git, and problem solving.  
-- ⚡ Fun fact: I love making clean dashboards and teaching Git to friends.
 
----
 
-## Featured Projects
-- **Student Management System** — full stack (PHP, MySQL, JS).  
-- **Admin Dashboard** — role management, CRUD, validation.  
-*(add your repos list here with links)*
 
 ---
 
@@ -52,9 +40,10 @@ Ask me anything <a href="https://github.com/bahalq/SELF/issues/new"><b>here</b><
 ## Follow / Contact
 *(If you want, replace the placeholders with your actual handles)*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Dev.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/your-dev)
+
+<a href="https://www.linkedin.com/in/adam-bahalq-90477a333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/sweetjoohnson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 
 ---
 
