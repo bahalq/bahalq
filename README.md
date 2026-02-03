@@ -41,7 +41,7 @@ Ask me anything with  <a href="mailto:bahalqadam2@gmail.com"><b>email</b></a> me
 
 
 <a href="https://www.linkedin.com/in/adam-bahalq-90477a333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/sweetjoohnson/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 
 
 ---
