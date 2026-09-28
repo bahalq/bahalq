@@ -34,7 +34,7 @@ or <a href="mailto:adambahalq.me@gmail.com"><strong>Email</strong></a> me.
 ---
 
 ## Languages & Tools
-`PHP` `JavaScript` `HTML` `CSS` `MySQL` `Git` `VSCode`
+`Laravel` `PHP` `React Js` `JavaScript` `HTML` `CSS` `Tailwind Css` `MySQL` `Git` `VSCode`
 
 ---
 
