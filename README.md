@@ -41,14 +41,8 @@ or <a href="mailto:adambahalq.me@gmail.com"><strong>Email</strong></a> me.
 ## Follow / Contact
 
 
-<a href="https://www.linkedin.com/in/adam-bahalq-90477a333/" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn">
-</a>
-<a href="https://adambahalq.me/" target="_blank">
-  <img src="https://shields.io" alt="Portfolio">
-</a>
-
+<a href="https://www.linkedin.com/in/adam-bahalq-90477a333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://adambahalq.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Portfolio"></a>
 
 
 ---
-
